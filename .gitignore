@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+ket_qua.jpg
+buoc2_*.jpg
+*.doc
+*.docx
